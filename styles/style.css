@@ -72,7 +72,7 @@ nav span:hover {
 
 .mainPlans {
     margin-top: 40px;
-    animation: movePlans 2s 0.5s backwards;
+    animation: movePlans 2s;
 }
 
 #plans {
