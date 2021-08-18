@@ -2,13 +2,13 @@
 
 ➡️ [Acesse a página clicando aqui](https://gabrielcostarep.github.io/Marketing-Academia/) ⬅️
 
-<!--  <div align="center" >
+<!-- <div align="center" >
   <img src="./Readme-gif.gif" alt="demo-web" height="425">
   <img src="./Readme-cell-gif.gif" alt="demo-mobile" height="425">
-</div> -->
+</div>
 
 <br>
-
+ -->
 ## 🚀 Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
