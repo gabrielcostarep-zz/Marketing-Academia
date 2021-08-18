@@ -51,7 +51,7 @@ nav span:hover {
 .mainHome {
     margin-left: 10%;
     max-width: 550px;
-    animation: moveContent 2s;
+    animation: moveContent 2s 0.5s backwards;
 }
 
 #content h1 {
@@ -72,7 +72,7 @@ nav span:hover {
 
 .mainPlans {
     margin-top: 40px;
-    animation: movePlans 2s;
+    animation: movePlans 2s 0.5s backwards;
 }
 
 #plans {
