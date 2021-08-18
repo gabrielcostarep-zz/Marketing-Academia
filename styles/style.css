@@ -166,6 +166,9 @@ form input[type="submit"] {
     background-color: rgba(69, 13, 14, 0.9);
     font-size: min(25px, 7vw);
     color: white;
+    cursor: pointer;
+    transition-property: background-color, text-shadow;
+    transition-duration: 0.3s;
 }
 
 form textarea {
@@ -190,7 +193,6 @@ form input[type="submit"]:hover {
     outline: 0;
     background-color: rgba(47, 9, 9, 0.9);
     text-shadow: 1px 1px 5px rgba(255, 255, 255, 0.4);
-    cursor: pointer;
 }
 
 .location {
