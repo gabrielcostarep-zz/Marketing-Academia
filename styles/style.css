@@ -218,6 +218,8 @@ form input[type="submit"]:hover {
 #social img {
     width: 50px;
     margin: 0 10px;
+    transition-property: opacity;
+    transition-duration: 0.3s;
 }
 
 #social img:hover {
