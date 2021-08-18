@@ -40,10 +40,11 @@ nav span {
     padding: 10px 15px;
     margin-left: 10px;
     cursor: pointer;
+    transition-property: background-color, color;
+    transition-duration: 0.7s;
 }
 
 nav span:hover {
-    transition: 0.7s all;
     background-color: #7b1b1d;
     color: white;
 }
