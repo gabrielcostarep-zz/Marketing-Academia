@@ -1,4 +1,4 @@
- Exemplo de uma página para o marketing de uma academia.
+💪🏼 Exemplo de uma página para o marketing de uma academia.
 
 ➡️ [Acesse a página clicando aqui](https://gabrielcostarep.github.io/Marketing-Barbearia/) ⬅️
 
